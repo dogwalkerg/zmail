@@ -14,8 +14,8 @@ routes = [
 # 启用 D1 数据库
 [[d1_databases]]
 binding = "DB"
-database_name = "zmail-fork"  # 替换为您的实际的数据库 NAME
-database_id = "0e5aa21f-d15a-4bb8-a21b-9cba2fd6e734"  # 需要替换为您的实际数据库 ID
+database_name = "gzmail123"  # 替换为您的实际的数据库 NAME
+database_id = "35693493-f3e9-4cf7-b4de-04bb1fd3adba"  # 需要替换为您的实际数据库 ID
 
 # 设置域名
 [vars]
